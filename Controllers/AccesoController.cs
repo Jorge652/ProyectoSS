@@ -18,6 +18,10 @@ namespace ProyectoSS.Controllers
     {
         //static string cadena = "Data Source=(ANDRES\ANDRES);Initial Catalog=DB_ACCESO;Integrated Security=true";
         static string cadena = "Data Source=ANDRES\\ANDRES;Initial Catalog=DB_ACCESO;Integrated Security=true";
+        /// <summary>
+        /// xd
+        /// </summary>
+        /// <returns></returns>
 
 
 
